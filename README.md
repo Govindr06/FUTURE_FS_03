@@ -2,6 +2,10 @@
 
 A premium single-page landing experience for a luxury hair and styling salon. The project is designed to turn high-intent visitors into consultation inquiries through a polished service showcase and a focused VIP booking flow.
 
+## Live Demo
+
+Explore the deployed website: [Aura Premium Salon on Vercel](https://future-fs-03-g1cjkkyml-citinghorizon0-4608s-projects.vercel.app/)
+
 ## Overview
 
 High-end salons can lose valuable bookings when inquiries are scattered across phone calls and social media messages. Aura Premium Salon presents a refined digital front desk: visitors can explore signature services and submit a consultation request at any time.
